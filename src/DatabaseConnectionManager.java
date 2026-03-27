@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
- * 
+ * handles connectins to the MealPlanning and ArcadeGames databases
  */
 public class DatabaseConnectionManager {
 
